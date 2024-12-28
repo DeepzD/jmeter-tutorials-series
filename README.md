@@ -8,7 +8,7 @@ Getting Started with JMeter: Installation, setup, and creating your first test p
 **Who Is This For?**
 QA Engineers and Developers looking to learn JMeter. Performance testers aiming to enhance their skills. Anyone interested in understanding load testing and its importance.
 
-***How to Use This Repository:**
+**How to Use This Repository:**
 Start with the basics folder if you're a beginner. Explore the Errors folder for in-depth common errors. Check out the examples folder for practical applications.
 
 Contributions and feedback are welcome! Feel free to fork the repository and submit pull requests to improve the tutorials.
